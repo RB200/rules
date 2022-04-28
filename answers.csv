@@ -1,2 +1,2 @@
-answer, rule, guess
-25, x^2=y, 5
+answer,rule,guess
+25,x^2=y x*5=y 5x=y,5
